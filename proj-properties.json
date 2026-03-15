@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbProjProperty",
+    "Description": "Project Properties (Access)"
+  },
+  "Items": {
+    "VCS Build Path": "G:\\GitHub\\pd-access-form-resizer-db",
+    "VCS Source Path": "G:\\GitHub\\pd-access-form-resizer-db"
+  }
+}
